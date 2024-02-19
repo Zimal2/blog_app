@@ -10,11 +10,11 @@ class PostScreen extends StatelessWidget {
       body: SafeArea(
           child: Column(
         children: [
-          Hero(
-              tag: 'imageB',
-              child: Image.asset(
-                imageUrlClass().imageUrl.last,
-              ))
+          // Hero(
+          //     tag: 'imageB',
+          //     child: Image.asset(
+          //       imageUrlClass().imageUrl.last,
+          //     ))
         ],
       )),
     );
