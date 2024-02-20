@@ -15,4 +15,12 @@ class imageUrlClass {
     "Transportation",
     'Adventure',
   ];
+  List<String> subtextUrl = [
+    "New style & characters",
+    "New style & characters",
+    "New style & characters",
+    "New style & characters",
+    "New style & characters",
+    "New style & characters",
+  ];
 }
