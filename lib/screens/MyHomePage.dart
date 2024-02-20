@@ -1,5 +1,4 @@
 import 'package:blog_app/widgets/carosoul.dart';
-import 'package:blog_app/widgets/post.dart';
 import 'package:flutter/material.dart';
 
 import '../widgets/Story.dart';
